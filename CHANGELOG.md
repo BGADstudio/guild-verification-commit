@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-05-05T12:19:39.766Z
-Commit: Fix race condition in async operations
+Timestamp: 2026-05-05T12:19:56.924Z
+Commit: Fix memory leak in event handlers
